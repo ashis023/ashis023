@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashis023&label=Profile%20views&color=0e75b6&style=flat" alt="ashis023" /> </p>
 
-- 🌱 I’m currently learning **JS(Java Script)**
+- 🌱 I’m currently learning **Liabrary & Framework.**
 
 - 📫 How to reach me **beheraashish094@gmail.com**
 
